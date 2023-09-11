@@ -1,5 +1,3 @@
-# CS3205 – Computer Networks LAB-5
-
 ## Steps for testing
 
  - Before starting clear all the previous
